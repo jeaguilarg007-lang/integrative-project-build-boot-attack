@@ -1,0 +1,3 @@
+#!/bin/bash
+SHA256:
+41e0dc742a2cedebe5e382923b0787ede617369a5bb1f35023837638bc0dfbd4  linuxmint-22.3.0-2026.06.23-cinnamon-64bit.iso
