@@ -9,7 +9,7 @@
 
 ## Docente
 
-Ing. Jonathan E. Tito O., MSc.
+Ing. Jonathan E. Tito O.
 
 ## Descripción del Proyecto
 
@@ -81,17 +81,10 @@ Las capturas de pantalla, logs y resultados obtenidos se encuentran organizados 
 
 Enlace:
 
-(Pegar aquí el enlace del video)
+https://drive.google.com/drive/folders/1WXend9lIdzGWVUEEaS4ZZddmogmFuRvT?usp=drive_link
 
 ---
 
-# Repositorio
-
-Enlace:
-
-(Pegar aquí el enlace de GitHub o Codeberg)
-
----
 
 # Conclusiones
 

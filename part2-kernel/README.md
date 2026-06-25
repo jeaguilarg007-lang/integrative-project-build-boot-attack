@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Parte 2 - Kernel de 64 bits
 
 ## Objetivo

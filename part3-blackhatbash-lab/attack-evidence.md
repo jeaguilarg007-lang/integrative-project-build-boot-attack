@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Técnica Aplicada
 
 ## Herramienta
